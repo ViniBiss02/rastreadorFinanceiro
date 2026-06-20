@@ -28,4 +28,4 @@ class CSV:
         print("Entry added successfully.")
 
 CSV.initialize_csv()
-CSV.add_entry("20-06-2026", 125.65, "Income", "Salary")
+CSV.add_entry("20-06-2026", 20.00, "Outcome", "Lunch")
